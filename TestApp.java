@@ -8,5 +8,6 @@ public class TestApp {
 
         Student s3 = new Student("Khan", "Nasiri", 003, "Makroian");
         s3.show();
+        Student s4 = new Student("", "", 0, "");
     }
 }
